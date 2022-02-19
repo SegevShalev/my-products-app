@@ -1,0 +1,11 @@
+{
+    "products":[
+        {
+            "id":"ChairLorem ipsum",
+            "title":"Chair",
+            "price":"3",
+            "description":"Lorem ipsum",
+            "image":"https://m.media-amazon.com/images/I/41tCIsGV8UL.jpg"
+        }
+    ]
+}
